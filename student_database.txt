@@ -1,0 +1,223 @@
+Torres, 22, 2004-2-0291, dom.torres@lpunetwork.edu.ph, 09957600941
+Salonga, 21, 2009-2-1234, erron.salonga@lpunetwork.edu.ph, 09295710571
+Ete, 20, 2011-2-6432, abe.ete@lpunetwork.edu.ph, 09395880174
+Takamura, 21, 2008-2-0978, yosh.takamura@lpunetwork.edu.ph, 09302294811
+Ang, 18, 2017-2-8865, vaughn.ang@lpunetwork.edu.ph, 09305948881
+Dy, 22, 2016-2-9548, shane.dy@lpunetwork.edu.ph, 09305998606
+Valzado, 20, 2021-2-2795, aeron.valzado@lpunetwork.edu.ph, 09300005961
+Wu, 21, 2024-2-1015, kenjie.wu@lpunetwork.edu.ph, 09119411234
+Mariano, 20, 2023-2-3325, drei.mariano@lpunetwork.edu.ph, 09320596837
+Cadiz, 20, 2019-2-7547, mark.cadiz@lpunetwork.edu.ph, 09978697046
+a, 20, 22, a@lpunetwork.edu.ph, 09222222222
+Student 1, 20, 2022-2-1001, student1@lpunetwork.edu.ph, 09930591001
+Student 2, 21, 2022-2-1002, student2@lpunetwork.edu.ph, 09930591002
+Student 3, 22, 2022-2-1003, student3@lpunetwork.edu.ph, 09930591003
+Student 4, 23, 2022-2-1004, student4@lpunetwork.edu.ph, 09930591004
+Student 5, 24, 2022-2-1005, student5@lpunetwork.edu.ph, 09930591005
+Student 6, 25, 2022-2-1006, student6@lpunetwork.edu.ph, 09930591006
+Student 7, 26, 2022-2-1007, student7@lpunetwork.edu.ph, 09930591007
+Student 8, 27, 2022-2-1008, student8@lpunetwork.edu.ph, 09930591008
+Student 9, 28, 2022-2-1009, student9@lpunetwork.edu.ph, 09930591009
+Student 10, 29, 2022-2-1010, student10@lpunetwork.edu.ph, 09930591010
+Student 11, 30, 2022-2-1011, student11@lpunetwork.edu.ph, 09930591011
+Student 12, 31, 2022-2-1012, student12@lpunetwork.edu.ph, 09930591012
+Student 13, 32, 2022-2-1013, student13@lpunetwork.edu.ph, 09930591013
+Student 14, 33, 2022-2-1014, student14@lpunetwork.edu.ph, 09930591014
+Student 15, 34, 2022-2-1015, student15@lpunetwork.edu.ph, 09930591015
+Student 16, 35, 2022-2-1016, student16@lpunetwork.edu.ph, 09930591016
+Student 17, 36, 2022-2-1017, student17@lpunetwork.edu.ph, 09930591017
+Student 18, 37, 2022-2-1018, student18@lpunetwork.edu.ph, 09930591018
+Student 19, 38, 2022-2-1019, student19@lpunetwork.edu.ph, 09930591019
+Student 20, 39, 2022-2-1020, student20@lpunetwork.edu.ph, 09930591020
+Student 21, 40, 2022-2-1021, student21@lpunetwork.edu.ph, 09930591021
+Student 22, 41, 2022-2-1022, student22@lpunetwork.edu.ph, 09930591022
+Student 23, 42, 2022-2-1023, student23@lpunetwork.edu.ph, 09930591023
+Student 24, 43, 2022-2-1024, student24@lpunetwork.edu.ph, 09930591024
+Student 25, 44, 2022-2-1025, student25@lpunetwork.edu.ph, 09930591025
+Student 26, 45, 2022-2-1026, student26@lpunetwork.edu.ph, 09930591026
+Student 27, 46, 2022-2-1027, student27@lpunetwork.edu.ph, 09930591027
+Student 28, 47, 2022-2-1028, student28@lpunetwork.edu.ph, 09930591028
+Student 29, 48, 2022-2-1029, student29@lpunetwork.edu.ph, 09930591029
+Student 30, 49, 2022-2-1030, student30@lpunetwork.edu.ph, 09930591030
+Student 31, 50, 2022-2-1031, student31@lpunetwork.edu.ph, 09930591031
+Student 32, 51, 2022-2-1032, student32@lpunetwork.edu.ph, 09930591032
+Student 33, 52, 2022-2-1033, student33@lpunetwork.edu.ph, 09930591033
+Student 34, 53, 2022-2-1034, student34@lpunetwork.edu.ph, 09930591034
+Student 35, 54, 2022-2-1035, student35@lpunetwork.edu.ph, 09930591035
+Student 36, 55, 2022-2-1036, student36@lpunetwork.edu.ph, 09930591036
+Student 37, 56, 2022-2-1037, student37@lpunetwork.edu.ph, 09930591037
+Student 38, 57, 2022-2-1038, student38@lpunetwork.edu.ph, 09930591038
+Student 39, 58, 2022-2-1039, student39@lpunetwork.edu.ph, 09930591039
+Student 40, 59, 2022-2-1040, student40@lpunetwork.edu.ph, 09930591040
+Student 41, 60, 2022-2-1041, student41@lpunetwork.edu.ph, 09930591041
+Student 42, 61, 2022-2-1042, student42@lpunetwork.edu.ph, 09930591042
+Student 43, 62, 2022-2-1043, student43@lpunetwork.edu.ph, 09930591043
+Student 44, 63, 2022-2-1044, student44@lpunetwork.edu.ph, 09930591044
+Student 45, 64, 2022-2-1045, student45@lpunetwork.edu.ph, 09930591045
+Student 46, 65, 2022-2-1046, student46@lpunetwork.edu.ph, 09930591046
+Student 47, 66, 2022-2-1047, student47@lpunetwork.edu.ph, 09930591047
+Student 48, 67, 2022-2-1048, student48@lpunetwork.edu.ph, 09930591048
+Student 49, 68, 2022-2-1049, student49@lpunetwork.edu.ph, 09930591049
+Student 50, 69, 2022-2-1050, student50@lpunetwork.edu.ph, 09930591050
+Student 51, 70, 2022-2-1051, student51@lpunetwork.edu.ph, 09930591051
+Student 52, 71, 2022-2-1052, student52@lpunetwork.edu.ph, 09930591052
+Student 53, 72, 2022-2-1053, student53@lpunetwork.edu.ph, 09930591053
+Student 54, 73, 2022-2-1054, student54@lpunetwork.edu.ph, 09930591054
+Student 55, 74, 2022-2-1055, student55@lpunetwork.edu.ph, 09930591055
+Student 56, 75, 2022-2-1056, student56@lpunetwork.edu.ph, 09930591056
+Student 57, 76, 2022-2-1057, student57@lpunetwork.edu.ph, 09930591057
+Student 58, 77, 2022-2-1058, student58@lpunetwork.edu.ph, 09930591058
+Student 59, 78, 2022-2-1059, student59@lpunetwork.edu.ph, 09930591059
+Student 60, 79, 2022-2-1060, student60@lpunetwork.edu.ph, 09930591060
+Student 61, 80, 2022-2-1061, student61@lpunetwork.edu.ph, 09930591061
+Student 62, 81, 2022-2-1062, student62@lpunetwork.edu.ph, 09930591062
+Student 63, 82, 2022-2-1063, student63@lpunetwork.edu.ph, 09930591063
+Student 64, 83, 2022-2-1064, student64@lpunetwork.edu.ph, 09930591064
+Student 65, 84, 2022-2-1065, student65@lpunetwork.edu.ph, 09930591065
+Student 66, 85, 2022-2-1066, student66@lpunetwork.edu.ph, 09930591066
+Student 67, 86, 2022-2-1067, student67@lpunetwork.edu.ph, 09930591067
+Student 68, 87, 2022-2-1068, student68@lpunetwork.edu.ph, 09930591068
+Student 69, 88, 2022-2-1069, student69@lpunetwork.edu.ph, 09930591069
+Student 70, 89, 2022-2-1070, student70@lpunetwork.edu.ph, 09930591070
+Student 71, 90, 2022-2-1071, student71@lpunetwork.edu.ph, 09930591071
+Student 72, 91, 2022-2-1072, student72@lpunetwork.edu.ph, 09930591072
+Student 73, 92, 2022-2-1073, student73@lpunetwork.edu.ph, 09930591073
+Student 74, 93, 2022-2-1074, student74@lpunetwork.edu.ph, 09930591074
+Student 75, 94, 2022-2-1075, student75@lpunetwork.edu.ph, 09930591075
+Student 76, 95, 2022-2-1076, student76@lpunetwork.edu.ph, 09930591076
+Student 77, 96, 2022-2-1077, student77@lpunetwork.edu.ph, 09930591077
+Student 78, 97, 2022-2-1078, student78@lpunetwork.edu.ph, 09930591078
+Student 79, 98, 2022-2-1079, student79@lpunetwork.edu.ph, 09930591079
+Student 80, 99, 2022-2-1080, student80@lpunetwork.edu.ph, 09930591080
+Student 81, 100, 2022-2-1081, student81@lpunetwork.edu.ph, 09930591081
+Student 82, 101, 2022-2-1082, student82@lpunetwork.edu.ph, 09930591082
+Student 83, 102, 2022-2-1083, student83@lpunetwork.edu.ph, 09930591083
+Student 84, 103, 2022-2-1084, student84@lpunetwork.edu.ph, 09930591084
+Student 85, 104, 2022-2-1085, student85@lpunetwork.edu.ph, 09930591085
+Student 86, 105, 2022-2-1086, student86@lpunetwork.edu.ph, 09930591086
+Student 87, 106, 2022-2-1087, student87@lpunetwork.edu.ph, 09930591087
+Student 88, 107, 2022-2-1088, student88@lpunetwork.edu.ph, 09930591088
+Student 89, 108, 2022-2-1089, student89@lpunetwork.edu.ph, 09930591089
+Student 90, 109, 2022-2-1090, student90@lpunetwork.edu.ph, 09930591090
+Student 91, 110, 2022-2-1091, student91@lpunetwork.edu.ph, 09930591091
+Student 92, 111, 2022-2-1092, student92@lpunetwork.edu.ph, 09930591092
+Student 93, 112, 2022-2-1093, student93@lpunetwork.edu.ph, 09930591093
+Student 94, 113, 2022-2-1094, student94@lpunetwork.edu.ph, 09930591094
+Student 95, 114, 2022-2-1095, student95@lpunetwork.edu.ph, 09930591095
+Student 96, 115, 2022-2-1096, student96@lpunetwork.edu.ph, 09930591096
+Student 97, 116, 2022-2-1097, student97@lpunetwork.edu.ph, 09930591097
+Student 98, 117, 2022-2-1098, student98@lpunetwork.edu.ph, 09930591098
+Student 99, 118, 2022-2-1099, student99@lpunetwork.edu.ph, 09930591099
+z, 23, 23, z@lpunetwork.edu.ph, 555
+z, 34, 34, 34, 34
+Torres, 22, 2004-2-0291, dom.torres@lpunetwork.edu.ph, 09957600941
+Salonga, 21, 2009-2-1234, erron.salonga@lpunetwork.edu.ph, 09295710571
+Ete, 20, 2011-2-6432, abe.ete@lpunetwork.edu.ph, 09395880174
+Takamura, 21, 2008-2-0978, yosh.takamura@lpunetwork.edu.ph, 09302294811
+Ang, 18, 2017-2-8865, vaughn.ang@lpunetwork.edu.ph, 09305948881
+Dy, 22, 2016-2-9548, shane.dy@lpunetwork.edu.ph, 09305998606
+Valzado, 20, 2021-2-2795, aeron.valzado@lpunetwork.edu.ph, 09300005961
+Wu, 21, 2024-2-1015, kenjie.wu@lpunetwork.edu.ph, 09119411234
+Mariano, 20, 2023-2-3325, drei.mariano@lpunetwork.edu.ph, 09320596837
+Cadiz, 20, 2019-2-7547, mark.cadiz@lpunetwork.edu.ph, 09978697046
+a, 20, 22, a@lpunetwork.edu.ph, 09222222222
+Student 1, 20, 2022-2-1001, student1@lpunetwork.edu.ph, 09930591001
+Student 2, 21, 2022-2-1002, student2@lpunetwork.edu.ph, 09930591002
+Student 3, 22, 2022-2-1003, student3@lpunetwork.edu.ph, 09930591003
+Student 4, 23, 2022-2-1004, student4@lpunetwork.edu.ph, 09930591004
+Student 5, 24, 2022-2-1005, student5@lpunetwork.edu.ph, 09930591005
+Student 6, 25, 2022-2-1006, student6@lpunetwork.edu.ph, 09930591006
+Student 7, 26, 2022-2-1007, student7@lpunetwork.edu.ph, 09930591007
+Student 8, 27, 2022-2-1008, student8@lpunetwork.edu.ph, 09930591008
+Student 9, 28, 2022-2-1009, student9@lpunetwork.edu.ph, 09930591009
+Student 10, 29, 2022-2-1010, student10@lpunetwork.edu.ph, 09930591010
+Student 11, 30, 2022-2-1011, student11@lpunetwork.edu.ph, 09930591011
+Student 12, 31, 2022-2-1012, student12@lpunetwork.edu.ph, 09930591012
+Student 13, 32, 2022-2-1013, student13@lpunetwork.edu.ph, 09930591013
+Student 14, 33, 2022-2-1014, student14@lpunetwork.edu.ph, 09930591014
+Student 15, 34, 2022-2-1015, student15@lpunetwork.edu.ph, 09930591015
+Student 16, 35, 2022-2-1016, student16@lpunetwork.edu.ph, 09930591016
+Student 17, 36, 2022-2-1017, student17@lpunetwork.edu.ph, 09930591017
+Student 18, 37, 2022-2-1018, student18@lpunetwork.edu.ph, 09930591018
+Student 19, 38, 2022-2-1019, student19@lpunetwork.edu.ph, 09930591019
+Student 20, 39, 2022-2-1020, student20@lpunetwork.edu.ph, 09930591020
+Student 21, 40, 2022-2-1021, student21@lpunetwork.edu.ph, 09930591021
+Student 22, 41, 2022-2-1022, student22@lpunetwork.edu.ph, 09930591022
+Student 23, 42, 2022-2-1023, student23@lpunetwork.edu.ph, 09930591023
+Student 24, 43, 2022-2-1024, student24@lpunetwork.edu.ph, 09930591024
+Student 25, 44, 2022-2-1025, student25@lpunetwork.edu.ph, 09930591025
+Student 26, 45, 2022-2-1026, student26@lpunetwork.edu.ph, 09930591026
+Student 27, 46, 2022-2-1027, student27@lpunetwork.edu.ph, 09930591027
+Student 28, 47, 2022-2-1028, student28@lpunetwork.edu.ph, 09930591028
+Student 29, 48, 2022-2-1029, student29@lpunetwork.edu.ph, 09930591029
+Student 30, 49, 2022-2-1030, student30@lpunetwork.edu.ph, 09930591030
+Student 31, 50, 2022-2-1031, student31@lpunetwork.edu.ph, 09930591031
+Student 32, 51, 2022-2-1032, student32@lpunetwork.edu.ph, 09930591032
+Student 33, 52, 2022-2-1033, student33@lpunetwork.edu.ph, 09930591033
+Student 34, 53, 2022-2-1034, student34@lpunetwork.edu.ph, 09930591034
+Student 35, 54, 2022-2-1035, student35@lpunetwork.edu.ph, 09930591035
+Student 36, 55, 2022-2-1036, student36@lpunetwork.edu.ph, 09930591036
+Student 37, 56, 2022-2-1037, student37@lpunetwork.edu.ph, 09930591037
+Student 38, 57, 2022-2-1038, student38@lpunetwork.edu.ph, 09930591038
+Student 39, 58, 2022-2-1039, student39@lpunetwork.edu.ph, 09930591039
+Student 40, 59, 2022-2-1040, student40@lpunetwork.edu.ph, 09930591040
+Student 41, 60, 2022-2-1041, student41@lpunetwork.edu.ph, 09930591041
+Student 42, 61, 2022-2-1042, student42@lpunetwork.edu.ph, 09930591042
+Student 43, 62, 2022-2-1043, student43@lpunetwork.edu.ph, 09930591043
+Student 44, 63, 2022-2-1044, student44@lpunetwork.edu.ph, 09930591044
+Student 45, 64, 2022-2-1045, student45@lpunetwork.edu.ph, 09930591045
+Student 46, 65, 2022-2-1046, student46@lpunetwork.edu.ph, 09930591046
+Student 47, 66, 2022-2-1047, student47@lpunetwork.edu.ph, 09930591047
+Student 48, 67, 2022-2-1048, student48@lpunetwork.edu.ph, 09930591048
+Student 49, 68, 2022-2-1049, student49@lpunetwork.edu.ph, 09930591049
+Student 50, 69, 2022-2-1050, student50@lpunetwork.edu.ph, 09930591050
+Student 51, 70, 2022-2-1051, student51@lpunetwork.edu.ph, 09930591051
+Student 52, 71, 2022-2-1052, student52@lpunetwork.edu.ph, 09930591052
+Student 53, 72, 2022-2-1053, student53@lpunetwork.edu.ph, 09930591053
+Student 54, 73, 2022-2-1054, student54@lpunetwork.edu.ph, 09930591054
+Student 55, 74, 2022-2-1055, student55@lpunetwork.edu.ph, 09930591055
+Student 56, 75, 2022-2-1056, student56@lpunetwork.edu.ph, 09930591056
+Student 57, 76, 2022-2-1057, student57@lpunetwork.edu.ph, 09930591057
+Student 58, 77, 2022-2-1058, student58@lpunetwork.edu.ph, 09930591058
+Student 59, 78, 2022-2-1059, student59@lpunetwork.edu.ph, 09930591059
+Student 60, 79, 2022-2-1060, student60@lpunetwork.edu.ph, 09930591060
+Student 61, 80, 2022-2-1061, student61@lpunetwork.edu.ph, 09930591061
+Student 62, 81, 2022-2-1062, student62@lpunetwork.edu.ph, 09930591062
+Student 63, 82, 2022-2-1063, student63@lpunetwork.edu.ph, 09930591063
+Student 64, 83, 2022-2-1064, student64@lpunetwork.edu.ph, 09930591064
+Student 65, 84, 2022-2-1065, student65@lpunetwork.edu.ph, 09930591065
+Student 66, 85, 2022-2-1066, student66@lpunetwork.edu.ph, 09930591066
+Student 67, 86, 2022-2-1067, student67@lpunetwork.edu.ph, 09930591067
+Student 68, 87, 2022-2-1068, student68@lpunetwork.edu.ph, 09930591068
+Student 69, 88, 2022-2-1069, student69@lpunetwork.edu.ph, 09930591069
+Student 70, 89, 2022-2-1070, student70@lpunetwork.edu.ph, 09930591070
+Student 71, 90, 2022-2-1071, student71@lpunetwork.edu.ph, 09930591071
+Student 72, 91, 2022-2-1072, student72@lpunetwork.edu.ph, 09930591072
+Student 73, 92, 2022-2-1073, student73@lpunetwork.edu.ph, 09930591073
+Student 74, 93, 2022-2-1074, student74@lpunetwork.edu.ph, 09930591074
+Student 75, 94, 2022-2-1075, student75@lpunetwork.edu.ph, 09930591075
+Student 76, 95, 2022-2-1076, student76@lpunetwork.edu.ph, 09930591076
+Student 77, 96, 2022-2-1077, student77@lpunetwork.edu.ph, 09930591077
+Student 78, 97, 2022-2-1078, student78@lpunetwork.edu.ph, 09930591078
+Student 79, 98, 2022-2-1079, student79@lpunetwork.edu.ph, 09930591079
+Student 80, 99, 2022-2-1080, student80@lpunetwork.edu.ph, 09930591080
+Student 81, 100, 2022-2-1081, student81@lpunetwork.edu.ph, 09930591081
+Student 82, 101, 2022-2-1082, student82@lpunetwork.edu.ph, 09930591082
+Student 83, 102, 2022-2-1083, student83@lpunetwork.edu.ph, 09930591083
+Student 84, 103, 2022-2-1084, student84@lpunetwork.edu.ph, 09930591084
+Student 85, 104, 2022-2-1085, student85@lpunetwork.edu.ph, 09930591085
+Student 86, 105, 2022-2-1086, student86@lpunetwork.edu.ph, 09930591086
+Student 87, 106, 2022-2-1087, student87@lpunetwork.edu.ph, 09930591087
+Student 88, 107, 2022-2-1088, student88@lpunetwork.edu.ph, 09930591088
+Student 89, 108, 2022-2-1089, student89@lpunetwork.edu.ph, 09930591089
+Student 90, 109, 2022-2-1090, student90@lpunetwork.edu.ph, 09930591090
+Student 91, 110, 2022-2-1091, student91@lpunetwork.edu.ph, 09930591091
+Student 92, 111, 2022-2-1092, student92@lpunetwork.edu.ph, 09930591092
+Student 93, 112, 2022-2-1093, student93@lpunetwork.edu.ph, 09930591093
+Student 94, 113, 2022-2-1094, student94@lpunetwork.edu.ph, 09930591094
+Student 95, 114, 2022-2-1095, student95@lpunetwork.edu.ph, 09930591095
+Student 96, 115, 2022-2-1096, student96@lpunetwork.edu.ph, 09930591096
+Student 97, 116, 2022-2-1097, student97@lpunetwork.edu.ph, 09930591097
+Student 98, 117, 2022-2-1098, student98@lpunetwork.edu.ph, 09930591098
+Student 99, 118, 2022-2-1099, student99@lpunetwork.edu.ph, 09930591099
+sdzfvsdf, asdasd, casdqwad, qwasdqwdq, qwsdwasd
